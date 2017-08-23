@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+  <Equipment>
+    <port>COM1</port>
+    <baude>9600</baude>
+    <filepath>C:\</filepath>
+  </Equipment>
+</root>

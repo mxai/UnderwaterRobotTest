@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+  <Equipment>
+    <ip>192.168.1.18</ip>
+    <port>90</port>
+    <userName>888888</userName>
+    <password>888888</password>
+    <channel>1</channel>
+    <handle>-1</handle>  
+  </Equipment>
+  <Equipment>
+    <ip>192.168.1.16</ip>
+    <port>90</port>
+    <userName>888888</userName>
+    <password>888888</password>
+    <channel>2</channel>
+    <handle>-1</handle>
+  </Equipment>
+</root>

@@ -1,0 +1,720 @@
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.exe
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.playbackform.resources
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.useform.resources
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.exe
+C:\Users\01\documents\visual studio 2012\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.exe
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.exe
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.playbackform.resources
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.useform.resources
+D:\Projects\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.exe
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+D:\Project\vvlaistick\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.playbackform.resources
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.useform.resources
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.exe
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\Project\vvlaistick\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.exe
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.playbackform.resources
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.useform.resources
+D:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+D:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\English-Analog\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\English-Analog\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\三电机带反馈模拟英文\English-Analog\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\三电机带反馈模拟英文JVS\English-Analog\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\三电机英文一画面大华\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\三电机英文一画面大华希腊\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\瑞典1080P视迈威\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.equipmentform.resources
+G:\Projects\StickVersion\瑞典1080P博世通\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.equipmentform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\日本\vvlaistick\obj\x86\Debug\vvlaistick.gpsform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.addeqform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.equipmentform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.gpsform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\日本 - 副本\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.gpsform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\日本 - 模拟\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.gpsform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\200中文\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\200中文\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.aboutform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.gpsform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.mainform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.markersfrom.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.messageform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.playform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.routedetailform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.routesform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.setform.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.mainform.en.resources
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\1双筒中文\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\vvlaistick.exe
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\Interop.iPlotLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.iPlotLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\Interop.iPlotLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\bin\x86\Debug\AxInterop.iPlotLibrary.dll
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+G:\Projects\StickVersion\1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.FormPlay.resources
+F:\StickVersion\深色1海豚中文\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\Interop.iPlotLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.iPlotLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.exe
+F:\StickVersion\深色1海豚中文\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\Interop.iPlotLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\Interop.isDigitalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\Interop.iStripChartXControl.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\AxInterop.iPlotLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\AxInterop.isDigitalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\AxInterop.iStripChartXControl.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.exe
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\vvlaistick.exe
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\Interop.iPlotLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\Interop.isDigitalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\Interop.iStripChartXControl.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\AxInterop.iPlotLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\AxInterop.isDigitalLibrary.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\AxInterop.iStripChartXControl.dll
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.FormPlay.resources
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+F:\StickVersion\深色立体200\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\深色立体200\vvlaistick\bin\x86\Debug\Control.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.exe
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\vvlaistick.exe
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\Control.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.FormPlay.resources
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+F:\StickVersion\深色立体200 - 副本\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.exe
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\vvlaistick.exe
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\Control.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.FormPlay.resources
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+F:\StickVersion\标准200型--牛队\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\microsoft.directx.directinput.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\Microsoft.DirectX.dll
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\Microsoft.DirectX.xml
+F:\StickVersion\标准200型--牛队\vvlaistick\bin\x86\Debug\microsoft.directx.directinput.xml
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.exe
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\vvlaistick.exe
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\Control.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\microsoft.directx.directinput.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\Microsoft.DirectX.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\Microsoft.DirectX.xml
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\microsoft.directx.directinput.xml
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\Interop.iProfessionalLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\Interop.isAnalogLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\AxInterop.iProfessionalLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\bin\x86\Debug\AxInterop.isAnalogLibrary.dll
+F:\StickVersion\北京工业大学\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+D:\robot\北京工业大学\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.exe
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\robot\北京工业大学\vvlaistick\bin\x86\Debug\vvlaistick.exe
+D:\robot\北京工业大学\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+D:\robot\北京工业大学\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+D:\robot\北京工业大学\vvlaistick\bin\x86\Debug\Microsoft.DirectX.xml
+D:\robot\北京工业大学\vvlaistick\bin\x86\Debug\microsoft.directx.directinput.xml
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
