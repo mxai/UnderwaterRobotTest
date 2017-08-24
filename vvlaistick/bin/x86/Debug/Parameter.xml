@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="gb2312"?>
 <root>
+  <Equipment>
+    <port>COM3</port>
+    <stick>COM3</stick>
+    <filepath>E:\</filepath>
+  </Equipment>
 </root>

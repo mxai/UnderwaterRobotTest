@@ -93,6 +93,7 @@ namespace vvlaistick
             {
                 realplay1 = DHSDK.CLIENT_RealPlay(loginID, 0, Play1.Handle);
                 realplay2 = DHSDK.CLIENT_RealPlay(loginID, 1, Play2.Handle);
+                timer4.Enabled = true;
             }
         }
 
@@ -227,6 +228,7 @@ namespace vvlaistick
             if (MessageBox.Show("确定要退出吗？  ", "提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Information)== DialogResult.OK)
             {
                 timer1.Enabled = false;
+                timer4.Enabled = false;
                 commclose = true;
                 if (videoing1 == true)
                 {
@@ -431,7 +433,7 @@ namespace vvlaistick
         }
         #endregion
 
-        #region 启动手柄        
+        #region 启动手柄
         private void lblStick_Click(object sender, EventArgs e)
         {
             if (lblStick.BackColor == Color.DarkGreen)
@@ -695,7 +697,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[20] = 0x0A;
+                commbyte[20] = 0x14;
                 commbyte[17] = 0x0A;
             }
         }
@@ -713,7 +715,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[20] = 0x14;
+                commbyte[20] = 0x0A;
                 commbyte[17] = 0x0A;
             }
         }
@@ -843,6 +845,19 @@ namespace vvlaistick
         }
 
         #endregion
+
+        private void timer4_Tick(object sender, EventArgs e)
+        {
+            if (realplay1 != -1)
+            {
+                try
+                {
+                    string PICName = "CHN1" + DateTime.Now.ToString("yyyyMMddHHmmss") + ".bmp";
+                    bool capOK = DHSDK.CLIENT_CapturePicture(realplay1, filepath + PICName);
+                }
+                catch { }
+            }    
+        }
 
         
     }        
