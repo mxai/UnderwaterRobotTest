@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
-            CCWin.CmSysButton cmSysButton2 = new CCWin.CmSysButton();
+            CCWin.CmSysButton cmSysButton1 = new CCWin.CmSysButton();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.lblLED1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -87,6 +87,7 @@
             this.btnVideo2 = new CCWin.SkinControl.SkinButton();
             this.timer3 = new System.Windows.Forms.Timer(this.components);
             this.timer4 = new System.Windows.Forms.Timer(this.components);
+            this.autoScreenShot = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Play1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -675,6 +676,7 @@
             this.panel4.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.panel4, "panel4");
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Controls.Add(this.autoScreenShot);
             this.panel4.Controls.Add(this.btnCapture2);
             this.panel4.Controls.Add(this.btnVideo2);
             this.panel4.Controls.Add(this.btnCapture);
@@ -720,6 +722,14 @@
             // 
             this.timer4.Interval = 1000;
             this.timer4.Tick += new System.EventHandler(this.timer4_Tick);
+            // 
+            // autoScreenShot
+            // 
+            this.autoScreenShot.BackColor = System.Drawing.Color.Black;
+            resources.ApplyResources(this.autoScreenShot, "autoScreenShot");
+            this.autoScreenShot.Name = "autoScreenShot";
+            this.autoScreenShot.UseVisualStyleBackColor = false;
+            this.autoScreenShot.Click += new System.EventHandler(this.autoScreenShot_Click);
             // 
             // FormMain
             // 
@@ -770,18 +780,18 @@
             this.ShadowWidth = 1;
             this.ShowBorder = false;
             this.ShowDrawIcon = false;
-            cmSysButton2.Bounds = new System.Drawing.Rectangle(1152, 16, 30, 25);
-            cmSysButton2.BoxState = CCWin.ControlBoxState.Normal;
-            cmSysButton2.Location = new System.Drawing.Point(1152, 16);
-            cmSysButton2.Name = null;
-            cmSysButton2.OwnerForm = this;
-            cmSysButton2.Size = new System.Drawing.Size(30, 25);
-            cmSysButton2.SysButtonDown = ((System.Drawing.Image)(resources.GetObject("cmSysButton2.SysButtonDown")));
-            cmSysButton2.SysButtonMouse = ((System.Drawing.Image)(resources.GetObject("cmSysButton2.SysButtonMouse")));
-            cmSysButton2.SysButtonNorml = ((System.Drawing.Image)(resources.GetObject("cmSysButton2.SysButtonNorml")));
-            cmSysButton2.ToolTip = null;
+            cmSysButton1.Bounds = new System.Drawing.Rectangle(1152, 16, 30, 25);
+            cmSysButton1.BoxState = CCWin.ControlBoxState.Normal;
+            cmSysButton1.Location = new System.Drawing.Point(1152, 16);
+            cmSysButton1.Name = null;
+            cmSysButton1.OwnerForm = this;
+            cmSysButton1.Size = new System.Drawing.Size(30, 25);
+            cmSysButton1.SysButtonDown = ((System.Drawing.Image)(resources.GetObject("cmSysButton1.SysButtonDown")));
+            cmSysButton1.SysButtonMouse = ((System.Drawing.Image)(resources.GetObject("cmSysButton1.SysButtonMouse")));
+            cmSysButton1.SysButtonNorml = ((System.Drawing.Image)(resources.GetObject("cmSysButton1.SysButtonNorml")));
+            cmSysButton1.ToolTip = null;
             this.SysButtonItems.AddRange(new CCWin.CmSysButton[] {
-            cmSysButton2});
+            cmSysButton1});
             this.TitleCenter = false;
             this.TitleColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.TitleOffset = new System.Drawing.Point(70, 5);
@@ -868,6 +878,7 @@
         private CCWin.SkinControl.SkinButton btnVideo2;
         private System.Windows.Forms.Timer timer3;
         private System.Windows.Forms.Timer timer4;
+        private System.Windows.Forms.Button autoScreenShot;
     }
 }
 
