@@ -86,6 +86,7 @@
             this.btnCapture2 = new CCWin.SkinControl.SkinButton();
             this.btnVideo2 = new CCWin.SkinControl.SkinButton();
             this.timer3 = new System.Windows.Forms.Timer(this.components);
+            this.timer4 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Play1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -715,6 +716,11 @@
             // 
             this.timer3.Tick += new System.EventHandler(this.timer3_Tick);
             // 
+            // timer4
+            // 
+            this.timer4.Interval = 1000;
+            this.timer4.Tick += new System.EventHandler(this.timer4_Tick);
+            // 
             // FormMain
             // 
             resources.ApplyResources(this, "$this");
@@ -861,6 +867,7 @@
         private CCWin.SkinControl.SkinButton btnCapture2;
         private CCWin.SkinControl.SkinButton btnVideo2;
         private System.Windows.Forms.Timer timer3;
+        private System.Windows.Forms.Timer timer4;
     }
 }
 

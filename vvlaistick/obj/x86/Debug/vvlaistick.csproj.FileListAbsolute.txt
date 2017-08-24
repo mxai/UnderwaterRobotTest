@@ -718,3 +718,17 @@ D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resou
 D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
 D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
 D:\robot\北京工业大学\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
+D:\robot\UnderwaterRobotTest\vvlaistick\bin\x86\Debug\vvlaistick.exe.config
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.csproj.ResolveComReference.cache
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.exe
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\robot\UnderwaterRobotTest\vvlaistick\bin\x86\Debug\vvlaistick.exe
+D:\robot\UnderwaterRobotTest\vvlaistick\bin\x86\Debug\vvlaistick.pdb
+D:\robot\UnderwaterRobotTest\vvlaistick\bin\x86\Debug\en\vvlaistick.resources.dll
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.FormAbout.resources
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.resources
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.FormSet.resources
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.Properties.Resources.resources
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.FormMain.en.resources
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.csproj.GenerateResource.Cache
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
