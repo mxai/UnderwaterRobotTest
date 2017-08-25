@@ -732,3 +732,4 @@ D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.csproj.Generate
 D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\en\vvlaistick.resources.dll
 D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.exe
 D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.pdb
+D:\robot\UnderwaterRobotTest\vvlaistick\obj\x86\Debug\vvlaistick.csprojResolveAssemblyReference.cache

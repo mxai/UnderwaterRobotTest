@@ -294,7 +294,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x03;
+                commbyte[5] = 0x03;
             }
         }
 
@@ -302,7 +302,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x00;
+                commbyte[5] = 0x00;
             }
         }
         //右转
@@ -310,7 +310,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x04;
+                commbyte[5] = 0x04;
             }
         }
 
@@ -318,7 +318,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x00;
+                commbyte[5] = 0x00;
             }
         }                        
         #endregion
