@@ -136,7 +136,7 @@ namespace vvlaistick
                     {
                         if ((buf[0] == 0xFF) && (buf[1] == 0xFE) && (buf[2] == 0xFF) && (buf[3] == 0xFE))
                         {
-                            Int32 JD1UD = buf[4] + buf[5] * 256;
+                            Int32 JD1UD = buf[6] + buf[7] * 256;  //上臂1
                             if (JD1UD > 0)
                             {
                                 lbl1UD.Text = JD1UD.ToString();
@@ -145,7 +145,7 @@ namespace vvlaistick
                             {
                                 lbl1UD.Text = "0";
                             }
-                            Int32 JD1LR = buf[6] + buf[7] * 256;
+                            Int32 JD1LR = buf[4] + buf[5] * 256;  //左右旋转角度
                             if (JD1LR > 0)
                             {
                                 lbl1LR.Text = JD1LR.ToString();

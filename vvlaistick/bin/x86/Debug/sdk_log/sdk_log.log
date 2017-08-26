@@ -3956,3 +3956,51 @@ Begin Time:2017-08-24 16:24:30.917
 [2017-08-24 16:24:30.975][P:2756/T:1900][Manager.cpp:3497][Info][0] -------------Login device over--------------
 [2017-08-24 16:24:31.085][P:2756/T:1900][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
 [2017-08-24 16:24:31.130][P:2756/T:1900][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-25 15:59:17.091
+[2017-08-25 15:59:17.091][P:2276/T:2876][Manager.cpp:3497][Info][0] -------------Login device over--------------
+Begin Time:2017-08-25 16:01:01.560
+[2017-08-25 16:01:01.561][P:2652/T:5136][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-25 16:01:01.561][P:2652/T:5136][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-25 16:01:01.618][P:2652/T:5136][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-25 16:01:01.708][P:2652/T:5136][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-25 16:01:01.758][P:2652/T:5136][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-25 16:08:54.774
+[2017-08-25 16:08:54.774][P:5924/T:3020][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-25 16:08:54.775][P:5924/T:3020][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-25 16:08:54.841][P:5924/T:3020][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-25 16:08:54.945][P:5924/T:3020][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-25 16:08:54.999][P:5924/T:3020][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-25 16:20:49.382
+[2017-08-25 16:20:49.382][P:5288/T:6908][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-25 16:20:49.382][P:5288/T:6908][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-25 16:20:49.435][P:5288/T:6908][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-25 16:20:49.535][P:5288/T:6908][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-25 16:20:49.585][P:5288/T:6908][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-25 16:29:30.253
+[2017-08-25 16:29:30.253][P:5920/T:2788][Manager.cpp:3497][Info][0] -------------Login device over--------------
+Begin Time:2017-08-25 16:29:54.862
+[2017-08-25 16:29:54.862][P:5456/T:2320][Manager.cpp:3497][Info][0] -------------Login device over--------------
+Begin Time:2017-08-25 16:41:18.957
+[2017-08-25 16:41:18.957][P:8088/T:7344][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-25 16:41:18.957][P:8088/T:7344][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-25 16:41:19.019][P:8088/T:7344][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-25 16:41:19.119][P:8088/T:7344][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-25 16:41:19.159][P:8088/T:7344][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-26 09:00:36.759
+[2017-08-26 09:00:36.759][P:3644/T:184][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-26 09:00:36.759][P:3644/T:184][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-26 09:00:36.828][P:3644/T:184][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-26 09:00:36.924][P:3644/T:184][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-26 09:00:36.984][P:3644/T:184][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-26 09:18:37.642
+[2017-08-26 09:18:37.642][P:3388/T:4928][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-26 09:18:37.642][P:3388/T:4928][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-26 09:18:37.715][P:3388/T:4928][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-26 09:18:37.805][P:3388/T:4928][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-26 09:18:37.855][P:3388/T:4928][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-26 09:30:26.799
+[2017-08-26 09:30:26.799][P:5764/T:204][dhdevprob.cpp:839][Info][0] ----------Send login packet-----------
+[2017-08-26 09:30:26.800][P:5764/T:204][dhdevprob.cpp:26][Info][0] -------------Build login packet--------------
+[2017-08-26 09:30:26.865][P:5764/T:204][Manager.cpp:3497][Info][0] -------------Login device over--------------
+[2017-08-26 09:30:26.955][P:5764/T:204][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+[2017-08-26 09:30:27.020][P:5764/T:204][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
