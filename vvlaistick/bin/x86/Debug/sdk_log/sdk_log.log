@@ -4118,3 +4118,5 @@ Begin Time:2017-08-29 13:21:09.789
 [2017-08-29 13:21:09.854][P:2516/T:3972][Manager.cpp:3497][Info][0] -------------Login device over--------------
 [2017-08-29 13:21:09.947][P:2516/T:3972][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
 [2017-08-29 13:21:10.010][P:2516/T:3972][DevConfigEx.cpp:8925][Info][0] IN SetupSession IP=0 and IP: 192.168.1.20
+Begin Time:2017-08-29 14:36:12.242
+[2017-08-29 14:36:12.243][P:4776/T:4896][Manager.cpp:3497][Info][0] -------------Login device over--------------
