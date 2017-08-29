@@ -339,7 +339,8 @@ namespace vvlaistick
                     XmlNodeList xlist1 = xe.ChildNodes;
                     port = xlist1.Item(0).InnerText;
                     stick = xlist1.Item(1).InnerText;
-                    filepath = xlist1.Item(2).InnerText;                              
+                    filepath = xlist1.Item(2).InnerText;
+                    filepath += "\\";          
                 }
             }
             else
