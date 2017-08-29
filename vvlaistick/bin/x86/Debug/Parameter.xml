@@ -3,6 +3,6 @@
   <Equipment>
     <port>COM3</port>
     <stick>COM3</stick>
-    <filepath>E:\</filepath>
+    <filepath>E:\underwater_data</filepath>
   </Equipment>
 </root>

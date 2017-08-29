@@ -44,12 +44,19 @@ namespace vvlaistick
         bool StickOK = false;
         bool commclose = false; public bool commListening = false;
         bool commstickclose = false; public bool commstickListening = false;
-        string byte4A = "00"; string byte4B = "0"; string byte4C = "0"; string byte4D = "0"; string byte4E = "0"; string byte4F = "00";
+        string byte4A = "00";
+        string byte4B = "0";    //液压驱动
+        string byte4C = "0";    //灯
+        string byte4D = "0";    //镜头切换
+        string byte4E = "0";    //开关框
+        string byte4F = "00";
         public bool initok = false; public int SelectPlay = -1;              
         string port = null;string stick = null; string filepath = null;
         private int loginID = 0; int realplay1 = -1; bool videoing1 = false;
         int realplay2 = -1; bool videoing2 = false;
         public fDisConnect cbDisConnect; private NET_DEVICEINFO deviceInfo;
+
+        bool ScreenShotFlag = false;
         #endregion
 
         #region 初始化
@@ -71,12 +78,12 @@ namespace vvlaistick
      
         private void Form1_Load(object sender, EventArgs e)
         {                        
-            LoadParameterXml();          
-            DHDVRStart();
-            ControlCOMEnable();
-            lblCOM_Click(null, null);
-            ControlCOMStickEnable();
-            lblStick_Click(null, null);  
+            LoadParameterXml();        //导入端口，文件保存路径，如果没有则重新生成新的配置文件并读入
+            DHDVRStart();              //启动摄像头，并显示图像数据
+            ControlCOMEnable();        //初始化数据接收
+            lblCOM_Click(null, null);  //打开串口
+            ControlCOMStickEnable();   //接收仿真摇杆控制数据
+            lblStick_Click(null, null);//打开仿真摇杆
         }
       
         #endregion
@@ -93,7 +100,6 @@ namespace vvlaistick
             {
                 realplay1 = DHSDK.CLIENT_RealPlay(loginID, 0, Play1.Handle);
                 realplay2 = DHSDK.CLIENT_RealPlay(loginID, 1, Play2.Handle);
-                timer4.Enabled = true;
             }
         }
 
@@ -130,7 +136,7 @@ namespace vvlaistick
                     {
                         if ((buf[0] == 0xFF) && (buf[1] == 0xFE) && (buf[2] == 0xFF) && (buf[3] == 0xFE))
                         {
-                            Int32 JD1UD = buf[4] + buf[5] * 256;
+                            Int32 JD1UD = buf[6] + buf[7] * 256;  //上臂1
                             if (JD1UD > 0)
                             {
                                 lbl1UD.Text = JD1UD.ToString();
@@ -139,7 +145,7 @@ namespace vvlaistick
                             {
                                 lbl1UD.Text = "0";
                             }
-                            Int32 JD1LR = buf[6] + buf[7] * 256;
+                            Int32 JD1LR = buf[4] + buf[5] * 256;  //左右旋转角度
                             if (JD1LR > 0)
                             {
                                 lbl1LR.Text = JD1LR.ToString();
@@ -181,7 +187,7 @@ namespace vvlaistick
         {
             commstick.PortName = stick;
             commstick.BaudRate = 115200;
-            commstick.DataReceived += commstick_DataReceived;
+            commstick.DataReceived += commstick_DataReceived;           
         }
         private void commstick_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
@@ -288,7 +294,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x03;
+                commbyte[5] = 0x03;
             }
         }
 
@@ -296,7 +302,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x00;
+                commbyte[5] = 0x00;
             }
         }
         //右转
@@ -304,7 +310,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x04;
+                commbyte[5] = 0x04;
             }
         }
 
@@ -312,7 +318,7 @@ namespace vvlaistick
         {
             if (StickOK == false)
             {
-                commbyte[6] = 0x00;
+                commbyte[5] = 0x00;
             }
         }                        
         #endregion
@@ -333,7 +339,8 @@ namespace vvlaistick
                     XmlNodeList xlist1 = xe.ChildNodes;
                     port = xlist1.Item(0).InnerText;
                     stick = xlist1.Item(1).InnerText;
-                    filepath = xlist1.Item(2).InnerText;                              
+                    filepath = xlist1.Item(2).InnerText;
+                    filepath += "\\";          
                 }
             }
             else
@@ -364,6 +371,7 @@ namespace vvlaistick
                 {
                     //显示错误信息  
                     //Console.WriteLine(e.Message);
+                    MessageBox.Show(e.Message, "错误");
                 }                 
                 LoadParameterXml();
             }
@@ -811,12 +819,16 @@ namespace vvlaistick
             if (YYOK == false)
             {
                 lblYY.BackColor = Color.Lime;
+                lblYY.ForeColor = Color.Red;
+                lblYY.Text = "开";
                 byte4B = "1";
                 YYOK = true;
             }
             else
             {
                 lblYY.BackColor = Color.DarkGreen;
+                lblYY.ForeColor = Color.White;
+                lblYY.Text = "关";
                 byte4B = "0";
                 YYOK = false;
             }
@@ -857,6 +869,22 @@ namespace vvlaistick
                 }
                 catch { }
             }    
+        }
+
+        private void autoScreenShot_Click(object sender, EventArgs e)
+        {
+            if (!ScreenShotFlag)
+            {
+                timer4.Enabled = true;
+                ScreenShotFlag = true;
+                MessageBox.Show("即将开始自动截屏", "提示");
+            }
+            else
+            {
+                timer4.Enabled = false;
+                ScreenShotFlag = false;
+                MessageBox.Show("停止截屏", "提示");
+            }
         }
 
         
