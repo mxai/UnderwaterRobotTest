@@ -1,4 +1,5 @@
-﻿namespace vvlaistick
+﻿using System.Windows.Forms;
+namespace vvlaistick
 {
     partial class FormMain
     {
@@ -818,6 +819,9 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+            this.KeyUp += new KeyEventHandler(this.Form1_KeyUp);
+            this.KeyDown += new KeyEventHandler(this.Form1_KeyDown);
+            this.KeyPress += new KeyPressEventHandler(this.Form1_KeyPress);
         }
 
         #endregion

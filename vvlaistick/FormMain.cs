@@ -263,7 +263,6 @@ namespace vvlaistick
             if (StickOK == false)
             {
                 commbyte[5] = 0x01;
-                
             }           
         }
         private void btnForward_MouseUp(object sender, MouseEventArgs e)
@@ -886,7 +885,130 @@ namespace vvlaistick
                 MessageBox.Show("停止截屏", "提示");
             }
         }
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            Keys key = e.KeyCode;
+            switch (key)
+            {
+                case Keys.W:
+                case Keys.Up:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x01;
+                    }
+                    break;
+                case Keys.A:
+                case Keys.Left:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x03;
+                    }
+                    break;
+                case Keys.S:
+                case Keys.Down:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x02;
+                    }
+                    break;
+                case Keys.D:
+                case Keys.Right:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x04;
+                    }
+                    break;
+            }
+        }
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //MessageBox.Show(e.KeyChar.ToString(), "KeyPress：");
+            //char Key_Char = e.KeyChar;
+            //switch(Key_Char)
+            //{
+            //    case 'w':
+            //        MessageBox.Show(e.KeyChar.ToString(), "KeyPress：");
+            //        break;
+            //}
+        }
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            Keys key = e.KeyCode;
+            switch (key)
+            {
+                case Keys.W:
+                case Keys.Up:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x00;
+                    }
+                    break;
+                case Keys.A:
+                case Keys.Left:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x00;
+                    }
+                    break;
+                case Keys.S:
+                case Keys.Down:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x00;
+                    }
+                    break;
+                case Keys.D:
+                case Keys.Right:
+                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x00;
+                    }
+                    break;
+            }
+        }
 
-        
+        protected override bool ProcessDialogKey(Keys keyData)
+        {
+            switch (keyData)
+            {
+                case Keys.Up:
+                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x01;
+                    }
+                    break;
+                case Keys.Left:
+                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x03;
+                    }
+                    break;
+                case Keys.Down:
+                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x02;
+                    }
+                    break;
+                case Keys.Right:
+                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
+                    if (StickOK == false)
+                    {
+                        commbyte[5] = 0x04;
+                    }
+                    break;
+            }
+            return true;
+        }
     }        
 }
