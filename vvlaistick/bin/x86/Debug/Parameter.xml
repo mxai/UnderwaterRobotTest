@@ -2,7 +2,7 @@
 <root>
   <Equipment>
     <port>COM3</port>
-    <stick>COM3</stick>
+    <stick>COM4</stick>
     <filepath>E:\underwater_data</filepath>
   </Equipment>
 </root>

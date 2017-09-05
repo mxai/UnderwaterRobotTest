@@ -263,7 +263,6 @@ namespace vvlaistick
             if (StickOK == false)
             {
                 commbyte[5] = 0x01;
-                
             }           
         }
         private void btnForward_MouseUp(object sender, MouseEventArgs e)
@@ -886,7 +885,170 @@ namespace vvlaistick
                 MessageBox.Show("停止截屏", "提示");
             }
         }
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            Keys key = e.KeyCode;
+            switch (key)
+            {
+                case Keys.W:
+                    commbyte[5] = 0x01;
+                    break;
+                case Keys.A:
+                    commbyte[5] = 0x03;
+                    break;
+                case Keys.S:
+                    commbyte[5] = 0x02;
+                    break;
+                case Keys.D:
+                    commbyte[5] = 0x04;
+                    break;
 
-        
+                case Keys.T:                  //第一个关节向上运动
+                    commbyte[19] = 0x0A;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.G:                  //第一个关节向下运动
+                    commbyte[19] = 0x14;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.I:                  //第二个关节向上运动
+                    commbyte[20] = 0x14;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.K:                  //第二个关节向下运动
+                    commbyte[20] = 0x0A;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.F:                  //向左运动
+                    commbyte[18] = 0x0A;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.H:                  //向右运动
+                    commbyte[18] = 0x14;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.U:                  //机械手张开
+                    commbyte[22] = 0x0A;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.O:                  //机械手关闭
+                    commbyte[22] = 0x14;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.J:                  //机械手向左旋转
+                    commbyte[21] = 0x0A;
+                    commbyte[17] = 0x0A;
+                    break;
+                case Keys.L:                  //机械手向右旋转
+                    commbyte[21] = 0x14;
+                    commbyte[17] = 0x0A;
+                    break;
+            }
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            Keys key = e.KeyCode;
+            switch (key)
+            {
+                case Keys.W:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.Up:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.A:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.Left:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.S:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.Down:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.D:
+                    commbyte[5] = 0x00;
+                    break;
+                case Keys.Right:
+                    commbyte[5] = 0x00;
+                    break;
+
+                case Keys.T:               //第一个关节向上运动停
+                    commbyte[19] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.G:               //第一个关节向下运动停
+                    commbyte[19] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.I:               //第二个关节向上运动停
+                    commbyte[20] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.K:               //第二个关节向下运动停
+                    commbyte[20] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.F:               //向左旋转停
+                    commbyte[18] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.H:               //向右旋转停
+                    commbyte[18] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.U:               //机械手张开停
+                    commbyte[22] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.O:               //机械手关闭停
+                    commbyte[22] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.J:               //机械手向左旋转停
+                    commbyte[21] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+                case Keys.L:               //机械手向右旋转停
+                    commbyte[21] = 0x0F;
+                    commbyte[17] = 0x0F;
+                    break;
+            }
+        }
+
+        //protected override bool ProcessDialogKey(Keys keyData)
+        //{
+        //    //switch (keyData)
+        //    //{
+        //    //    case Keys.W:
+        //    //        commbyte[5] = 0x01;
+        //    //        break;
+        //    //    case Keys.Up:
+        //    //        commbyte[5] = 0x01;                   
+        //    //        break;
+        //    //    case Keys.A:
+        //    //        commbyte[5] = 0x03;
+        //    //        break;
+        //    //    case Keys.Left:
+        //    //        commbyte[5] = 0x03;                   
+        //    //        break;
+        //    //    case Keys.S:
+        //    //        commbyte[5] = 0x02;
+        //    //        break;
+        //    //    case Keys.Down:
+        //    //        commbyte[5] = 0x02;
+        //    //        break;
+        //    //    case Keys.D:
+        //    //        commbyte[5] = 0x04;
+        //    //        break;
+        //    //    case Keys.Right:
+        //    //        commbyte[5] = 0x04;
+        //    //        break;
+        //    //}
+        //    return true;
+        //}
     }        
 }
