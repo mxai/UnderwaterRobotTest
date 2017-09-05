@@ -892,35 +892,19 @@ namespace vvlaistick
             {
                 case Keys.W:
                 case Keys.Up:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x01;
-                    }
+                    commbyte[5] = 0x01;
                     break;
                 case Keys.A:
                 case Keys.Left:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x03;
-                    }
+                    commbyte[5] = 0x03;
                     break;
                 case Keys.S:
                 case Keys.Down:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x02;
-                    }
+                    commbyte[5] = 0x02;
                     break;
                 case Keys.D:
                 case Keys.Right:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyDown：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x04;
-                    }
+                    commbyte[5] = 0x04;
                     break;
             }
         }
@@ -942,35 +926,19 @@ namespace vvlaistick
             {
                 case Keys.W:
                 case Keys.Up:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x00;
-                    }
+                    commbyte[5] = 0x00;
                     break;
                 case Keys.A:
                 case Keys.Left:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x00;
-                    }
+                    commbyte[5] = 0x00;
                     break;
                 case Keys.S:
                 case Keys.Down:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x00;
-                    }
+                    commbyte[5] = 0x00;
                     break;
                 case Keys.D:
                 case Keys.Right:
-                    //MessageBox.Show(e.KeyCode.ToString(), "KeyUp：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x00;
-                    }
+                    commbyte[5] = 0x00;
                     break;
             }
         }
@@ -980,32 +948,16 @@ namespace vvlaistick
             switch (keyData)
             {
                 case Keys.Up:
-                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x01;
-                    }
+                    commbyte[5] = 0x01;                   
                     break;
                 case Keys.Left:
-                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x03;
-                    }
+                    commbyte[5] = 0x03;                   
                     break;
                 case Keys.Down:
-                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x02;
-                    }
+                    commbyte[5] = 0x02;
                     break;
                 case Keys.Right:
-                    //MessageBox.Show(keyData.ToString(), "ProcessDialogKey：");
-                    if (StickOK == false)
-                    {
-                        commbyte[5] = 0x04;
-                    }
+                    commbyte[5] = 0x04;
                     break;
             }
             return true;
