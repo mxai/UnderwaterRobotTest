@@ -821,7 +821,6 @@ namespace vvlaistick
 
             this.KeyUp += new KeyEventHandler(this.Form1_KeyUp);
             this.KeyDown += new KeyEventHandler(this.Form1_KeyDown);
-            this.KeyPress += new KeyPressEventHandler(this.Form1_KeyPress);
         }
 
         #endregion
